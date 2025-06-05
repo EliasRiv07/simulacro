@@ -2,15 +2,13 @@
 using namespace std;
 int main(void){
 int n;
+int i=0;
 int acum=0;
 cout<<"escriba el numero a  calcular: ";
 cin>>n;
 cout<<"0 1 ";
-for(int i=0; i<=n; i++){
+while(i<=n){
 
-    
-    acum=i+acum;
-    cout<<acum<<" ";
 }
 
 
